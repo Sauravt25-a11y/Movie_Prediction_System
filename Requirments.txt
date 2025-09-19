@@ -1,0 +1,7 @@
+Movie_Prediction_System/
+│── IMDb_Movies_India.csv      # Dataset
+│── train_model.py             # Training script
+│── movie_model.pkl            # Saved trained model
+│── app.py                     # Streamlit app
+│── requirements.txt           # Dependencies
+│── README.md                  # Documentation
